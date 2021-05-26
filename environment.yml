@@ -1,0 +1,19 @@
+name: graphing
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - openpyxl
+  - pyperclip
+  - py2neo
+  - cairo
+  - nltk
+  - opencv
+  - moviepy
+  - pymongo
+  - arctic
+  - spyder
+  - pydrive
+prefix: /Users/christostrydom/opt/anaconda3/envs/graphing
